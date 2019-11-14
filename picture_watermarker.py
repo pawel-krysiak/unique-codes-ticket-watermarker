@@ -1,5 +1,4 @@
 from PIL import Image, ImageDraw, ImageFont
-# import os, shutil, argparse, sys, re
 
 class PictureWatermarker:
     # Watermark given picture with any text
